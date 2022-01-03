@@ -22,8 +22,7 @@ Enter the input of the house to get the predicted price of your house
 
 ## Reproducibility
 
-The entire model should be completely reproducible - to score this the teacher will clone your repository and follow the instructions as per the readme.  All teams start out with a score of 10.  One point is deducted for each step not included in the repo.
-
+The entire model should be completely reproducible - just install the requirements file then plug and play.
 ## Advice
 
 Commit early and often
@@ -37,8 +36,5 @@ Look at the predictions your model is getting wrong - can you engineer a feature
 Models
 - baseline (average sales per store from in training data)
 - random forest
-- XGBoost
+- catboost
 
-Use your DSR instructor(s)
-- you are not alone - they are here to help with both bugs and data science advice
-- git issues, structuring the data on disk, models to try, notebook problems and conda problems are all things we have seen before
