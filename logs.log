@@ -5709,3 +5709,5 @@ ValueError: Input contains NaN, infinity or a value too large for dtype('float64
                                                  subsample_freq=0)]]), probability_threshold=None, encoded_labels=True, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
 2022-01-03 08:42:24,713:INFO:Checking exceptions
 2022-01-03 08:42:24,713:INFO:Preloading libraries
+2022-01-03 09:29:47,666:INFO:Initializing load_model()
+2022-01-03 09:29:47,666:INFO:load_model(model_name=house_price_prediction, platform=None, authentication=None, verbose=True)
